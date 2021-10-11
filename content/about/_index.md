@@ -6,8 +6,10 @@ author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 
 ---
-Die Ostsee
+Bansin ist ein Ort zum Entspannen und in die Weite schauen. Das Meeresrauschen beruhigt und lässt einen sofort im Urlaub ankommen. Hier gibt es eine leichte und weiche Dünung, das Wasser ist so sauber und sehr klar. Kein anderes Gebiet bietet sich so schön für einen Urlaub an wie der Sommerhafen Bansin auf Usedom. Das Baden, Schnorcheln und Schwimmen lässt einen die Seele baumeln.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+Im Winter stehen den Besuchern vor allem die Wanderwege zur Verfügung die an der Küste entlang führen. Die Parkanlagen mit ihren gepflegten Wegen laden zum Verweilen ein.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Im Frühling und im Herbst finden die Bewohner zum Wandern und Spazierengehen immer einen gepflegten, unverbaubaren Weg, die Badegäste haben das Meer und im Winter lockt der Schnee.
+
+Bansin ist ein familienfreundlicher Ort.
