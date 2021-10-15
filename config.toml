@@ -29,9 +29,10 @@ google_analitycs_id = ""
 home = "Homepage"
 logo = "images/logo.png"
 phone = "033 387 580 10"
+social = []
 theme_color = "#41228e"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
@@ -50,15 +51,3 @@ URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
 preloader = ""
-[[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
