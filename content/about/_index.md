@@ -1,5 +1,5 @@
 ---
-title: Ausstattung
+title: Umgebung
 date: 2021-07-15T06:14:34+00:00
 description: ''
 author_image: images/about/author.jpg
