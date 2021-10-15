@@ -1,7 +1,7 @@
 ---
-title: About
-date: 2019-05-12T12:14:34.000+06:00
-description: This is meta description.
+title: Ausstattung
+date: 2021-07-15T06:14:34+00:00
+description: ''
 author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 
@@ -10,6 +10,6 @@ Bansin ist ein Ort zum Entspannen und in die Weite schauen. Das Meeresrauschen b
 
 Im Winter stehen den Besuchern vor allem die Wanderwege zur Verfügung die an der Küste entlang führen. Die Parkanlagen mit ihren gepflegten Wegen laden zum Verweilen ein.
 
-Im Frühling und im Herbst finden die Bewohner zum Wandern und Spazierengehen immer einen gepflegten, unverbaubaren Weg, die Badegäste haben das Meer und im Winter lockt der Schnee.
+Im Frühling und im Herbst finden die Bewohner zum Wandern und Spazierengehen ein. immer einen gepflegten, unverbauten Weg, die Badegäste haben das Meer und im Winter lockt der Schnee.
 
 Bansin ist ein familienfreundlicher Ort.
