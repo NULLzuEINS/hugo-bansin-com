@@ -6,7 +6,7 @@ menu:
   main:
     URL: contact
     name: Kontakt & Buchen
-    weight: 4
+    weight: 3
 
 ---
 **Villa Cosima FeWo 6**

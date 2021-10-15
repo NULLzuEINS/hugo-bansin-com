@@ -3,14 +3,6 @@ languageCode = "de-de"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Villa Cosima"
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
 [params]
 address = "Am Rehpfad 16 A 16321 Bernau"
 author = "Roland Lademann"

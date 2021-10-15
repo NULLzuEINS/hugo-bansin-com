@@ -7,7 +7,7 @@ author_signature: images/about/signature.png
 menu:
   main:
     URL: portfolio
-    weight: 3
+    weight: 2
 
 ---
 Bansin ist ein Ort zum Entspannen und in die Weite schauen. Das Meeresrauschen beruhigt und lässt einen sofort im Urlaub ankommen. Hier gibt es eine leichte und weiche Dünung, das Wasser ist so sauber und sehr klar. Kein anderes Gebiet bietet sich so schön für einen Urlaub an wie der Sommerhafen Bansin auf Usedom. Das Baden, Schnorcheln und Schwimmen lässt einen die Seele baumeln.
